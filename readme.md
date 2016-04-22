@@ -14,7 +14,9 @@ The timer is set to 15 minutes by default, but it can be set according to your n
 Views
 --------
 
-There is just one view for now.
+There is just one view for now, but it is adaptive.
+
+[Preview](https://github.com/idefy/rainmeter-skin-stand-up-timer/blob/master/preview.png)
 
 Features
 --------
